@@ -10,7 +10,7 @@
         <samp>
           <a href="https://www.google.com/search?q=jimmyraj18">「 Google Me 」</a> 
                 <br>
-                「 I am a Data Science Major Student. And now learning full stack web appplication development from <b>Country</b> 」
+                「 I am a cybersecurity researcher and expereince with implementing security controls to strengthen the security posture for industries. And now learning full stack web appplication development from <b>Country</b> 」
                 <br>
                 <br>
         </samp>
