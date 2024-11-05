@@ -19,20 +19,19 @@
 
 <h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
 
+- Cloud Security
+- Cybersecurity
+- Cloud Development
 - Data Science
 - Deep Learning
 - Machine Learning
-- Real Time Video and Audio Analysis
-- Computer vision
-- Natural Language Processing
-- Microcontrollers
-- Robotics
+  
 <h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='99'/>&nbsp;</h1>
 
-Data Science-------██████████████████░░░░░░░  
+Cybersecurity-------██████████████████░░░░░░░  
 Python-------------████████████████████░░░░░  
 SQL----------------███████████████░░░░░░░░░░  
-Cyber Security---- ███████████████░░░░░░░░░░  
+Data Science---- ███████████████░░░░░░░░░░  
 Linux -------------██████████████████░░░░░░░
 
 <h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Languages and Tools that I know:</h2>
