@@ -90,26 +90,7 @@ Linux -------------██████████████████░░�
         </a>
 </p>
 
-<p align="center">
-   <table>
-      <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
-      <p align="center">
-              <a href="https://github.com/jimmyraj18">
-                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyraj18&theme=radical&border=7F3FBF&background=0D1117" alt="jimmyraj18's GitHub streak"/>
-              </a>
-      </p>
-           <p align="center"> 
-                   <a href="https://github.com/jimmyraj18">
-                           <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jimmyraj18&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-                   </a><br>
-           </p>
-           <p align="center">
-                   <a href="https://github.com/jimmyraj18">
-           <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jimmyraj18&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-   </a><br/>
-           </p>
-   </table>
-</p>
+
 
 <a href="https://github.com/jimmyraj18"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jimmyraj18&theme=github-compact&point=68929b&area=true&hide_border=true" /></a>
 
