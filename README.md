@@ -66,21 +66,7 @@ Powershell---- ███████████████░░░░░░�
 - Cooking
 - Coding
 
-#### You can also find me on-
 
-[<img align="left" alt="jimmyraj18 | LinkedIn" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="jimmyraj18 | Twitter" width="30" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="jimmyraj18 | Instagram"  width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="jimmyraj18 | Facebook" width="30" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][facebook]
-
-<br>
-
-<hr>
-
-[linkedin]: https://linkedin.com/
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[facebook]: https://www.facebook.com/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jimmyraj18&theme=onedark)](https://github.com/jimmyraj18)
 
