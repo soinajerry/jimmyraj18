@@ -10,7 +10,7 @@
         <samp>
           <a href="https://www.google.com/search?q=fnujimmy">「 Google Me 」</a> 
                 <br>
-                「 I am a cybersecurity researcher and expereince with implementing security controls to strengthen the security posture for industries. And now learning full stack web appplication development from <b>Country</b> 」
+                「 I am a cybersecurity researcher and expereince with implementing security controls to strengthen the security posture for industries. I am also a full stack developer developing applications using Microsoft and Cloud tools and technology 」
                 <br>
                 <br>
         </samp>
