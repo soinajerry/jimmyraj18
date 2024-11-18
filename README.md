@@ -28,11 +28,11 @@
 
 <h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='99'/>&nbsp;</h1>
 
-Cybersecurity-------██████████████████░░░░░░░  
+MVC asp.Net-------██████████████████░░░░░░░  
 Python-------------████████████████████░░░░░  
 SQL----------------███████████████░░░░░░░░░░  
-Data Science---- ███████████████░░░░░░░░░░  
-Linux -------------██████████████████░░░░░░░
+Powershell---- ███████████████░░░░░░░░░░  
+.Net Core -------------██████████████████░░░░░░░
 
 <h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Languages and Tools that I know:</h2>
 <p align="left"> 
