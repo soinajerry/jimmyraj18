@@ -62,7 +62,7 @@ Powershell---- ███████████████░░░░░░�
 ### My Hobbies and interests -
 
 - Traveling
-- Singing
+- Reading
 - Cooking
 - Coding
 
