@@ -4,7 +4,7 @@
                 <b><a target="_blank" href="https://jimmyraj18.com">jimmyraj18</a></b>
         </samp>
 </h1>
-
+ I am a cybersecurity researcher and expereince with implementing security controls 
 <h2 align="center">
         <!-- Organisation  -->
         <samp>
